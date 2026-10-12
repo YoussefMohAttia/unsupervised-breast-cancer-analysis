@@ -13,7 +13,7 @@
 
 This project applies unsupervised learning to a breast-cancer dataset. The notebook investigates the feature space, prepares the data, and uses clustering and dimensionality-reduction techniques to examine structure in the observations.
 
-It is presented as an academic analysis project, with the original data, notebook, assignment prompt, and exported output retained together.
+The repository keeps the analysis notebook and source data together for a reproducible exploration.
 
 ## Repository Structure
 
@@ -21,8 +21,7 @@ It is presented as an academic analysis project, with the original data, noteboo
 .
 ├── project.ipynb        # Analysis, preprocessing, clustering, and visuals
 ├── data.csv             # Input dataset
-├── Assignment 4.pdf     # Assignment specification
-└── Out.pdf              # Exported project output
+└── README.md            # Project guide
 ```
 
 ## Getting Started
